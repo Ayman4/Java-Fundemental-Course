@@ -15,7 +15,7 @@ import javax.swing.JFrame;
 public class Ch6GUI extends JFrame{
     public Ch6GUI()
     {
-        setTitle("Welcome to Java");
+        setTitle("Welcome to Java v 1.0");
         setSize(600, 600);
     }
 }
